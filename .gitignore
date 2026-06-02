@@ -1,0 +1,16 @@
+# build output
+out/
+*.class
+
+# javafx sdk binaries — пользователь сам скачивает через download_javafx
+javafx-sdk/
+javafx-sdk.zip
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+Thumbs.db
+.DS_Store
